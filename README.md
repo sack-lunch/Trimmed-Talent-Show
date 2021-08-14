@@ -1,0 +1,1 @@
+Trimmed Talent Show
