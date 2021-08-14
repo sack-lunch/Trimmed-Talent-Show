@@ -1,0 +1,21 @@
+"a" = (/obj/structure/window/reinforced/fulltile/indestructable,/obj/structure/grille,/turf/open/floor/iron/white,/area/space)
+"c" = (/obj/effect/turf_decal/tile/green/half,/turf/open/floor/iron/white,/area/space)
+"e" = (/obj/effect/turf_decal/tile/green/half{dir = 1},/obj/structure/chair/comfy,/turf/open/floor/iron/white,/area/space)
+"h" = (/obj/effect/turf_decal/tile/green/half{dir = 8},/obj/effect/turf_decal/tile/green,/obj/machinery/computer/pandemic,/turf/open/floor/iron/white,/area/space)
+"l" = (/obj/effect/turf_decal/tile/green/half{dir = 8},/obj/structure/table/glass,/obj/item/storage/box/syringes,/turf/open/floor/iron/white,/area/space)
+"m" = (/turf/open/floor/iron/white,/area/space)
+"x" = (/obj/structure/bed,/obj/item/bedsheet/medical,/obj/effect/turf_decal/tile/green/half{dir = 1},/turf/open/floor/iron/white,/area/space)
+"D" = (/obj/machinery/door/window,/turf/open/floor/iron/white,/area/space)
+"G" = (/obj/structure/table/glass,/obj/item/storage/box/beakers,/obj/item/reagent_containers/dropper,/obj/effect/turf_decal/tile/green/half{dir = 1},/turf/open/floor/iron/white,/area/space)
+"I" = (/obj/machinery/door/window{dir = 4},/turf/open/floor/iron/white,/area/space)
+"N" = (/obj/effect/turf_decal/tile/green/half,/obj/machinery/smartfridge/chemistry/virology/preloaded,/turf/open/floor/iron/white,/area/space)
+"T" = (/obj/structure/window/reinforced/spawner,/obj/effect/turf_decal/tile/green/half,/turf/open/floor/iron/white,/area/space)
+
+(1,1,1) = {"
+aaaaaa
+axGema
+aTTTDa
+almmmI
+ahccNa
+aaaaaa
+"}

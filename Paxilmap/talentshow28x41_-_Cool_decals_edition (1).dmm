@@ -1,0 +1,4231 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"af" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ah" = (
+/obj/structure/rack{
+	color = "#825427"
+	},
+/obj/effect/turf_decal/siding/wood/end{
+	dir = 1
+	},
+/obj/item/binoculars,
+/obj/item/binoculars,
+/obj/item/binoculars,
+/obj/item/binoculars,
+/obj/item/binoculars,
+/obj/item/binoculars{
+	pixel_y = 4
+	},
+/obj/item/binoculars{
+	pixel_y = 4
+	},
+/obj/item/binoculars{
+	pixel_y = 4
+	},
+/obj/item/binoculars{
+	pixel_y = 4
+	},
+/obj/item/binoculars{
+	pixel_y = 4
+	},
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"as" = (
+/obj/structure/railing/corner{
+	dir = 1
+	},
+/obj/structure/railing/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/iron/stairs/old{
+	color = "#825427";
+	dir = 1
+	},
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ax" = (
+/obj/structure/table/reinforced,
+/obj/machinery/microwave,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"aQ" = (
+/obj/machinery/chem_master/condimaster{
+	desc = "Looks like a knock-off chem-master. Perhaps useful for separating liquids when mixing drinks precisely. Also dispenses condiments.";
+	name = "HoochMaster Deluxe"
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"aR" = (
+/obj/structure/table/wood,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/machinery/chem_dispenser/drinks/fullupgrade,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"aT" = (
+/obj/effect/turf_decal/trimline/white/filled/line{
+	dir = 5
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"aU" = (
+/obj/structure/table/wood,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/machinery/chem_dispenser/drinks/beer/fullupgrade,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"aY" = (
+/obj/effect/turf_decal/trimline/white/filled/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"bl" = (
+/obj/effect/turf_decal/trimline/white/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"bH" = (
+/obj/structure/table/wood,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/item/book/manual/wiki/barman_recipes{
+	pixel_x = 6;
+	pixel_y = 5
+	},
+/obj/item/reagent_containers/food/drinks/shaker{
+	pixel_x = -6
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ck" = (
+/obj/item/kirbyplants/random,
+/obj/effect/turf_decal/siding/wood/end{
+	dir = 1
+	},
+/obj/machinery/light/directional/west,
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"cm" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/obj/machinery/vending/boozeomat/all_access,
+/obj/machinery/light/directional/north,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"cw" = (
+/obj/structure/table/wood,
+/obj/item/storage/box/drinkingglasses{
+	pixel_x = -5;
+	pixel_y = 3
+	},
+/obj/item/storage/box/drinkingglasses{
+	pixel_x = -5;
+	pixel_y = 14
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/item/lighter{
+	pixel_x = 9
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"cF" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/centcom{
+	name = "Bar";
+	req_access_txt = "25"
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"cG" = (
+/obj/machinery/button/curtain{
+	id = "curtaincall"
+	},
+/obj/structure/table/wood,
+/obj/effect/turf_decal/siding/thinplating/dark,
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"cU" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/railing{
+	dir = 10
+	},
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 10
+	},
+/obj/effect/oneway,
+/obj/effect/oneway{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"dD" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/centcom{
+	name = "Shop Storage Room";
+	req_access_txt = "38"
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"eq" = (
+/obj/effect/turf_decal/trimline/white/filled/end,
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ex" = (
+/obj/effect/turf_decal/siding/wood/end{
+	dir = 1
+	},
+/obj/machinery/light/directional/east,
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ey" = (
+/obj/effect/spawner/structure/window/shuttle,
+/turf/open/floor/plating,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"eS" = (
+/obj/structure/railing/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/iron/stairs/old{
+	color = "#825427";
+	dir = 1
+	},
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"eT" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"eW" = (
+/obj/machinery/griddle,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"eZ" = (
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/structure/closet/crate/bin,
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ff" = (
+/obj/effect/spawner/randomsnackvend,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"fj" = (
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/machinery/vending/wardrobe/bar_wardrobe,
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"fw" = (
+/obj/effect/turf_decal/tile/bar,
+/obj/effect/turf_decal/tile/bar{
+	dir = 1
+	},
+/obj/machinery/light/directional/south,
+/turf/open/floor/iron/showroomfloor,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"fW" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/obj/structure/rack{
+	color = "#825427"
+	},
+/obj/item/clothing/accessory/lawyers_badge,
+/obj/item/clothing/accessory/lawyers_badge,
+/obj/item/clothing/accessory/lawyers_badge,
+/obj/item/clothing/accessory/lawyers_badge{
+	pixel_y = 6
+	},
+/obj/item/clothing/accessory/lawyers_badge{
+	pixel_y = 6
+	},
+/obj/item/clothing/accessory/lawyers_badge{
+	pixel_y = 6
+	},
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ga" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"gc" = (
+/obj/structure/railing/corner{
+	dir = 1
+	},
+/obj/structure/railing/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/white/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"gl" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"gr" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"gx" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"gY" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/effect/turf_decal/tile/neutral/full,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"hh" = (
+/obj/structure/chair/sofa/corp/right{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"hi" = (
+/obj/effect/turf_decal/siding/wood/end,
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"hn" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/obj/structure/chair/sofa/corp/left{
+	dir = 4
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"hC" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/structure/table/wood,
+/obj/item/reagent_containers/food/drinks/bottle/fernet{
+	pixel_x = -6;
+	pixel_y = -1
+	},
+/obj/item/reagent_containers/food/drinks/bottle/trappist{
+	pixel_x = 5;
+	pixel_y = 3
+	},
+/obj/item/food/pie/baklava{
+	pixel_x = 5;
+	pixel_y = -10
+	},
+/obj/machinery/light/directional/north,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"hT" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/obj/structure/chair/sofa/corp/right{
+	dir = 8
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"hV" = (
+/obj/structure/bookcase/random/religion,
+/turf/open/floor/pod/light,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ia" = (
+/obj/structure/fluff/broken_flooring{
+	dir = 4;
+	icon_state = "singular"
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ie" = (
+/obj/item/kirbyplants/random,
+/obj/machinery/light/small/directional/north,
+/turf/open/floor/pod/light,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"il" = (
+/obj/structure/rack{
+	color = "#825427"
+	},
+/obj/item/stack/sheet/greatergem,
+/obj/item/bouquet/rose,
+/turf/open/floor/pod/light,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"in" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood/end{
+	dir = 1
+	},
+/turf/open/floor/iron/stairs/old{
+	color = "#825427";
+	dir = 1
+	},
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"it" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/railing{
+	dir = 6
+	},
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 6
+	},
+/obj/effect/oneway,
+/obj/effect/oneway{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"iy" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"iJ" = (
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/obj/item/reagent_containers/food/drinks/bottle/wine{
+	pixel_x = -6;
+	pixel_y = 5
+	},
+/obj/item/reagent_containers/food/drinks/bottle/tequila{
+	pixel_x = 5;
+	pixel_y = 9
+	},
+/obj/structure/table/wood,
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"iK" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"iU" = (
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/obj/item/reagent_containers/food/drinks/bottle/mushi_kombucha{
+	pixel_x = 12;
+	pixel_y = 9
+	},
+/obj/item/reagent_containers/food/drinks/bottle/maltliquor{
+	pixel_y = 4
+	},
+/obj/item/reagent_containers/food/drinks/bottle/kahlua{
+	pixel_x = -12;
+	pixel_y = 10
+	},
+/obj/structure/table/wood,
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"iV" = (
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/obj/item/reagent_containers/food/drinks/bottle/blazaam{
+	pixel_x = 11;
+	pixel_y = 13
+	},
+/obj/item/reagent_containers/food/drinks/bottle/amaretto{
+	pixel_x = -3;
+	pixel_y = 7
+	},
+/obj/structure/table/wood,
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ji" = (
+/obj/effect/turf_decal/trimline/white/filled/line{
+	dir = 6
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"jK" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/obj/structure/rack{
+	color = "#825427"
+	},
+/obj/item/clothing/suit/toggle/lawyer,
+/obj/item/clothing/suit/toggle/lawyer,
+/obj/item/clothing/suit/toggle/lawyer,
+/obj/item/clothing/suit/toggle/lawyer{
+	pixel_y = 6
+	},
+/obj/item/clothing/suit/toggle/lawyer{
+	pixel_y = 6
+	},
+/obj/item/clothing/suit/toggle/lawyer{
+	pixel_y = 6
+	},
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"jX" = (
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/obj/item/reagent_containers/food/drinks/bottle/rum{
+	pixel_x = 7;
+	pixel_y = 12
+	},
+/obj/item/reagent_containers/food/drinks/bottle/champagne{
+	pixel_x = -7;
+	pixel_y = 8
+	},
+/obj/structure/table/wood,
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"kb" = (
+/obj/effect/turf_decal/trimline/white/filled/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"kr" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/item/kirbyplants/random,
+/obj/machinery/light/directional/south,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"kz" = (
+/obj/structure/plaque/static_plaque{
+	name = Most famous lizard award
+	},
+/turf/closed/indestructible/iron,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"kF" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/table/wood,
+/obj/item/food/lizard_surf_n_turf{
+	pixel_y = 10
+	},
+/obj/item/food/moonfish_demiglace,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"kJ" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/obj/structure/chair/sofa/corp/left{
+	dir = 8
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"kM" = (
+/obj/structure/shuttle/engine/propulsion{
+	dir = 8
+	},
+/turf/open/floor/plating/airless,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"lU" = (
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/obj/machinery/door/firedoor,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"lV" = (
+/obj/effect/spawner/randomcolavend,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"me" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/structure/table/wood,
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"mp" = (
+/obj/item/kirbyplants/random,
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"mB" = (
+/obj/structure/window/reinforced/spawner/east,
+/obj/structure/shuttle/engine/heater{
+	dir = 8
+	},
+/turf/open/floor/plating/airless,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"mI" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/obj/structure/rack{
+	color = "#825427"
+	},
+/obj/item/cartridge/lawyer,
+/obj/item/cartridge/lawyer,
+/obj/item/cartridge/lawyer,
+/obj/item/cartridge/lawyer{
+	pixel_y = 6
+	},
+/obj/item/cartridge/lawyer{
+	pixel_y = 6
+	},
+/obj/item/cartridge/lawyer{
+	pixel_y = 6
+	},
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"mJ" = (
+/obj/structure/window/reinforced/spawner/west,
+/turf/open/floor/pod,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"nj" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/shuttle,
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"nn" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"nE" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/iron/stairs/old{
+	color = "#825427";
+	dir = 1
+	},
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"nF" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/obj/structure/displaycase,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"nG" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/machinery/light/floor,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"nO" = (
+/obj/structure/table/reinforced,
+/obj/machinery/reagentgrinder,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"nR" = (
+/obj/effect/turf_decal/tile/bar{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/bar,
+/turf/open/floor/iron/showroomfloor,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"oe" = (
+/obj/effect/turf_decal/trimline/white/filled/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"on" = (
+/turf/open/space/basic,
+/area/space)
+"or" = (
+/obj/structure/closet/secure_closet/freezer/kitchen,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"oG" = (
+/obj/structure/closet/crate/bin,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 9
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"pa" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"pi" = (
+/obj/machinery/processor,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"po" = (
+/obj/effect/turf_decal/siding/wood/end{
+	dir = 1
+	},
+/obj/structure/chair/comfy,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"pp" = (
+/obj/structure/dresser,
+/turf/open/floor/pod/light,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"pr" = (
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/obj/machinery/vending/cigarette,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"px" = (
+/obj/effect/turf_decal/trimline/white/filled/line{
+	dir = 9
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"pR" = (
+/obj/structure/bed,
+/obj/item/bedsheet/wiz,
+/obj/machinery/light/small/directional/south,
+/turf/open/floor/pod/light,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ql" = (
+/obj/structure/railing{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/iron/stairs/old{
+	color = "#825427";
+	dir = 1
+	},
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"qo" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/external{
+	name = "External Airlock";
+	safety_mode = 1
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"qU" = (
+/obj/effect/temp_visual/cult/rune_spawn/rune6,
+/obj/item/bouquet/rose,
+/obj/machinery/light/small/directional/south,
+/turf/open/floor/pod/light,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"qZ" = (
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/obj/machinery/vending/coffee,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"re" = (
+/obj/structure/rack{
+	color = "#825427"
+	},
+/obj/item/clothing/head/wizard/marisa,
+/turf/open/floor/pod/light,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"rC" = (
+/obj/structure/railing{
+	dir = 4
+	},
+/obj/structure/railing/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/iron/stairs/old{
+	color = "#825427";
+	dir = 1
+	},
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"rV" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/effect/turf_decal/tile/neutral/full,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"sz" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"sG" = (
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 9
+	},
+/obj/structure/table/reinforced,
+/obj/item/storage/bag/tray{
+	pixel_y = 6
+	},
+/obj/item/food/emperor_roll{
+	pixel_x = 6;
+	pixel_y = 10
+	},
+/obj/item/food/full_english{
+	pixel_x = 4
+	},
+/obj/item/food/fuegoburrito{
+	pixel_x = -5;
+	pixel_y = 5
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"sJ" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral/full,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"sP" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/oneway{
+	dir = 4
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"sQ" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/structure/table/wood,
+/obj/item/reagent_containers/food/drinks/bottle/wine{
+	pixel_x = 9;
+	pixel_y = 5
+	},
+/obj/item/plate{
+	pixel_x = -4;
+	pixel_y = -6
+	},
+/obj/item/plate{
+	pixel_x = -4;
+	pixel_y = 7
+	},
+/obj/item/food/spaghetti/garlic_nizaya{
+	pixel_x = -4;
+	pixel_y = 13
+	},
+/obj/item/food/spaghetti/meatballspaghetti{
+	pixel_x = -4
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"sS" = (
+/obj/effect/turf_decal/siding/wood/end,
+/obj/structure/chair/comfy{
+	dir = 1
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"te" = (
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"tj" = (
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/obj/structure/closet/crate/bin,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"tn" = (
+/obj/structure/rack{
+	color = "#825427"
+	},
+/obj/effect/turf_decal/siding/wood/end,
+/obj/item/binoculars,
+/obj/item/binoculars,
+/obj/item/binoculars,
+/obj/item/binoculars,
+/obj/item/binoculars,
+/obj/item/binoculars{
+	pixel_y = 4
+	},
+/obj/item/binoculars{
+	pixel_y = 4
+	},
+/obj/item/binoculars{
+	pixel_y = 4
+	},
+/obj/item/binoculars{
+	pixel_y = 4
+	},
+/obj/item/binoculars{
+	pixel_y = 4
+	},
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"tp" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/structure/railing/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/iron/stairs/old{
+	color = "#825427";
+	dir = 1
+	},
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"tE" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/machinery/light/directional/west,
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"tF" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"tH" = (
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/effect/spawner/randomsnackvend,
+/obj/machinery/light/directional/north,
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"tL" = (
+/obj/machinery/vending/coffee,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"tW" = (
+/obj/machinery/vending/cigarette,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/obj/machinery/light/directional/south,
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"uv" = (
+/obj/effect/turf_decal/trimline/white/filled/line,
+/obj/machinery/light/directional/south,
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"uM" = (
+/obj/structure/railing/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/white/filled/line{
+	dir = 9
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"uV" = (
+/obj/structure/closet/crate/bin,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"vt" = (
+/obj/structure/table/reinforced,
+/obj/effect/turf_decal/siding/thinplating/dark/end{
+	dir = 8
+	},
+/obj/item/storage/bag/tray{
+	pixel_y = 6
+	},
+/obj/item/food/cherrycupcake{
+	pixel_x = 6;
+	pixel_y = 11
+	},
+/obj/item/food/eggplantparm{
+	pixel_x = 4;
+	pixel_y = 2
+	},
+/obj/item/food/eggwrap{
+	pixel_x = -4;
+	pixel_y = 5
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"vw" = (
+/obj/structure/destructible/cult/tome,
+/obj/machinery/light/small/directional/north,
+/turf/open/floor/pod/light,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"vA" = (
+/obj/structure/chair/sofa/corp/left{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"vW" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/structure/table/wood,
+/obj/item/storage/bag/tray{
+	pixel_y = 6
+	},
+/obj/item/food/honkdae{
+	pixel_x = 5;
+	pixel_y = 17
+	},
+/obj/item/food/honey_roll{
+	pixel_x = 4;
+	pixel_y = 3
+	},
+/obj/item/food/lizard_dumplings{
+	pixel_x = -5;
+	pixel_y = 8
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"wc" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/structure/table/wood,
+/obj/item/reagent_containers/food/drinks/bottle/hcider{
+	pixel_x = -7;
+	pixel_y = -9
+	},
+/obj/item/reagent_containers/food/drinks/bottle/gin{
+	pixel_x = 5;
+	pixel_y = -7
+	},
+/obj/item/reagent_containers/food/drinks/bottle/cognac{
+	pixel_x = -3;
+	pixel_y = 13
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"wn" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/table/wood,
+/obj/item/reagent_containers/food/drinks/bottle/maltliquor{
+	pixel_x = -6;
+	pixel_y = 12
+	},
+/obj/item/reagent_containers/food/drinks/bottle/sake{
+	pixel_x = 6;
+	pixel_y = 5
+	},
+/obj/machinery/light/directional/south,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"wt" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/obj/structure/rack{
+	color = "#825427"
+	},
+/obj/item/storage/briefcase/lawyer,
+/obj/item/storage/briefcase/lawyer,
+/obj/item/storage/briefcase/lawyer,
+/obj/item/storage/briefcase/lawyer{
+	pixel_y = 5
+	},
+/obj/item/storage/briefcase/lawyer{
+	pixel_y = 5
+	},
+/obj/item/storage/briefcase/lawyer{
+	pixel_y = 5
+	},
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"wF" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/table/wood,
+/obj/item/storage/bag/tray{
+	pixel_y = 6
+	},
+/obj/item/food/hotdog{
+	pixel_y = 6
+	},
+/obj/machinery/light/directional/south,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"wU" = (
+/obj/machinery/smartfridge/drying_rack,
+/obj/effect/turf_decal/siding/wood/end{
+	dir = 8
+	},
+/turf/open/floor/grass,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"xA" = (
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/obj/machinery/door/firedoor,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"xU" = (
+/obj/structure/table/reinforced,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 4
+	},
+/obj/item/storage/bag/tray{
+	pixel_y = 6
+	},
+/obj/machinery/light/directional/west,
+/obj/item/food/cannoli{
+	pixel_y = 6
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"yn" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/effect/oneway,
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"yp" = (
+/obj/item/kirbyplants/potty,
+/obj/effect/turf_decal/siding/wood/end{
+	dir = 4
+	},
+/obj/machinery/light/small/directional/north,
+/turf/open/floor/grass,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"yz" = (
+/obj/structure/table/wood,
+/obj/item/kirbyplants/random{
+	pixel_y = 10
+	},
+/obj/machinery/light/small/directional/north,
+/turf/open/floor/pod/light,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"yO" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/machinery/light/floor,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"yV" = (
+/obj/structure/table/wood,
+/obj/item/food/grown/grapes/green{
+	pixel_x = -13;
+	pixel_y = 6
+	},
+/obj/item/food/grown/harebell{
+	pixel_x = -7;
+	pixel_y = 8
+	},
+/obj/item/food/grown/whitebeet{
+	pixel_y = 6
+	},
+/obj/item/food/grown/star_cactus{
+	pixel_x = 5;
+	pixel_y = -1
+	},
+/turf/open/floor/pod/light,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"zy" = (
+/obj/item/kirbyplants/random,
+/obj/effect/turf_decal/siding/wood/end,
+/obj/machinery/light/directional/east,
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"zz" = (
+/obj/machinery/holopad,
+/obj/effect/turf_decal/bot,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"zP" = (
+/obj/structure/table/wood,
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/item/storage/fancy/donut_box{
+	pixel_y = -3
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"zR" = (
+/obj/item/kirbyplants/random,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 5
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Aj" = (
+/obj/structure/table/wood,
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/item/storage/firstaid/emergency{
+	pixel_y = 15
+	},
+/obj/item/megaphone/command{
+	pixel_x = -13;
+	pixel_y = 4
+	},
+/obj/item/reagent_containers/food/drinks/mug/tea{
+	pixel_x = 4;
+	pixel_y = -2
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"At" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"AD" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/effect/turf_decal/tile/neutral/full,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"AV" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/railing{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 4
+	},
+/obj/effect/oneway{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"AW" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral/full,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Bd" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock{
+	name = "Manlet Containment"
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Be" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/machinery/light/directional/north,
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Bi" = (
+/turf/open/floor/carpet/green,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Bp" = (
+/obj/structure/window/reinforced/spawner/east,
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/obj/structure/table/wood,
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Bu" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Bw" = (
+/obj/effect/loot_site_spawner,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"BE" = (
+/obj/structure/closet,
+/obj/effect/spawner/lootdrop/maintenance/two,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Cg" = (
+/obj/structure/reagent_dispensers/fueltank,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Ci" = (
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Cy" = (
+/obj/effect/turf_decal/trimline/white/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"CC" = (
+/obj/structure/closet/crate/goldcrate,
+/obj/effect/spawner/lootdrop/maintenance/two,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"CE" = (
+/obj/machinery/vending/hydroseeds,
+/turf/open/floor/pod/light,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Dg" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/effect/turf_decal/tile/neutral/full,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Do" = (
+/obj/effect/turf_decal/trimline/white/filled/corner,
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Dx" = (
+/turf/closed/wall/mineral/titanium,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"DB" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/obj/item/kirbyplants/random,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"DG" = (
+/obj/structure/table/wood,
+/obj/item/food/grown/tea/astra{
+	pixel_y = -5
+	},
+/obj/item/food/grown/galaxythistle{
+	pixel_x = -8;
+	pixel_y = 9
+	},
+/obj/item/food/grown/ash_flora/seraka{
+	pixel_y = 4
+	},
+/obj/item/food/grown/bungofruit{
+	pixel_x = 5;
+	pixel_y = 9
+	},
+/obj/item/food/grown/apple/gold{
+	pixel_x = -10
+	},
+/obj/item/food/grown/cherries{
+	pixel_x = 9
+	},
+/obj/machinery/light/small/directional/south,
+/turf/open/floor/pod/light,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"DK" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral/full,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Ec" = (
+/obj/structure/bed,
+/obj/item/bedsheet/centcom,
+/obj/machinery/light/small/directional/south,
+/turf/open/floor/pod/light,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Eg" = (
+/obj/structure/fluff/broken_flooring{
+	dir = 4;
+	icon_state = "pile"
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Ey" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/light/small/red/directional/east,
+/turf/open/floor/plating,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Ff" = (
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Fl" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/structure/railing{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/iron/stairs/old{
+	color = "#825427";
+	dir = 1
+	},
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Fy" = (
+/obj/effect/turf_decal/trimline/white/filled/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"FM" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/railing/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/thinplating/dark/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"FT" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Gd" = (
+/obj/effect/mob_spawn/human/corpse/wizard,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Ge" = (
+/obj/effect/turf_decal/trimline/white/filled/line{
+	dir = 10
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Gn" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"GK" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Hg" = (
+/turf/open/floor/pod,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Hp" = (
+/obj/structure/rack,
+/obj/item/restraints/handcuffs/cable/zipties,
+/obj/item/screwdriver,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"HA" = (
+/obj/structure/railing/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/white/filled/line{
+	dir = 5
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"HT" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"HU" = (
+/obj/structure/fluff/broken_flooring,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Id" = (
+/obj/item/paper_bin{
+	pixel_x = 5;
+	pixel_y = 8
+	},
+/obj/item/pen{
+	pixel_x = 5;
+	pixel_y = 8
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/obj/structure/table/wood,
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Ii" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Is" = (
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 8
+	},
+/obj/machinery/door/firedoor,
+/obj/structure/table/wood/bar,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"It" = (
+/obj/structure/curtain/cloth/fancy/mechanical{
+	id = "curtaincall"
+	},
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/obj/machinery/button/curtain{
+	id = "curtaincall";
+	pixel_x = -32
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"IN" = (
+/obj/machinery/smartfridge,
+/obj/effect/turf_decal/siding/thinplating/dark,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"IO" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/effect/turf_decal/tile/neutral/full,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"IR" = (
+/obj/structure/table/reinforced,
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/item/storage/bag/tray{
+	pixel_y = 6
+	},
+/obj/item/food/chawanmushi{
+	pixel_x = 5;
+	pixel_y = 10
+	},
+/obj/item/food/cheesyburrito{
+	pixel_x = -6;
+	pixel_y = 7
+	},
+/obj/item/food/carrotfries{
+	pixel_x = 7;
+	pixel_y = 3
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"IV" = (
+/obj/item/kirbyplants/random,
+/obj/effect/turf_decal/siding/wood/end,
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Jc" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/effect/turf_decal/tile/neutral/full,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Je" = (
+/obj/structure/curtain/cloth/fancy/mechanical{
+	id = "curtaincall"
+	},
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/obj/machinery/button/curtain{
+	id = "curtaincall";
+	pixel_x = 32
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Jm" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/public/glass{
+	name = "Bar"
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Jr" = (
+/obj/structure/rack,
+/obj/item/spear/grey_tide,
+/obj/effect/spawner/lootdrop/maintenance/two,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"JD" = (
+/obj/structure/chair/stool/bar/directional/south,
+/turf/open/floor/carpet/green,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"JM" = (
+/obj/structure/table,
+/obj/item/storage/toolbox/emergency,
+/obj/item/clothing/mask/cigarette/rollie/nicotine{
+	name = "Hal's Custom";
+	pixel_x = 7;
+	pixel_y = 14
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"JZ" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/obj/machinery/light/directional/west,
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Ka" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/obj/machinery/light/directional/east,
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Ke" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/obj/structure/displaycase,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Kp" = (
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"KE" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"KI" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/obj/structure/bookcase,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"KK" = (
+/obj/effect/turf_decal/trimline/white/filled/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/white/filled/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"KM" = (
+/obj/effect/turf_decal/tile/bar,
+/obj/effect/turf_decal/tile/bar{
+	dir = 1
+	},
+/turf/open/floor/iron/showroomfloor,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"KT" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"KX" = (
+/obj/structure/railing{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood/end{
+	dir = 1
+	},
+/turf/open/floor/iron/stairs/old{
+	color = "#825427";
+	dir = 1
+	},
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"KY" = (
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/effect/spawner/randomcolavend,
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Lc" = (
+/obj/structure/curtain/cloth/fancy/mechanical{
+	id = "curtaincall"
+	},
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Lg" = (
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Lj" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/obj/item/kirbyplants/random,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Lt" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/item/kirbyplants/random,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"LN" = (
+/turf/open/floor/iron/stairs/left{
+	color = "#825427"
+	},
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"LQ" = (
+/turf/open/floor/iron/stairs/right{
+	color = "#825427"
+	},
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"LR" = (
+/obj/structure/closet/secure_closet/freezer/meat,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"LS" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/machinery/light/directional/north,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Mh" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/obj/structure/table/wood,
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ME" = (
+/obj/structure/table/reinforced,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 5
+	},
+/obj/item/storage/bag/tray{
+	pixel_y = 6
+	},
+/obj/item/food/cheese_sandwich{
+	pixel_y = 14
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"MK" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/obj/machinery/light/floor,
+/obj/effect/oneway,
+/obj/effect/oneway{
+	dir = 8
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"MW" = (
+/obj/machinery/vending/dinnerware,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"NE" = (
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/obj/item/storage/bag/tray{
+	pixel_y = 6
+	},
+/obj/structure/table/wood,
+/turf/open/floor/iron/dark/textured_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Od" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/machinery/light/directional/north,
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Oe" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/machinery/light/floor,
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Ph" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Pk" = (
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 4
+	},
+/obj/machinery/door/firedoor,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Pz" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/centcom{
+	name = "Shop Desk";
+	req_access_txt = "38"
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"PB" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"PS" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/effect/oneway{
+	dir = 8
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"PZ" = (
+/obj/structure/railing/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/iron/stairs/old{
+	color = "#825427";
+	dir = 1
+	},
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Qk" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/railing,
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/effect/oneway,
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"QV" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/machinery/light/floor,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"QW" = (
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Ro" = (
+/obj/structure/chair/sofa/corp{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Rv" = (
+/obj/structure/table/reinforced,
+/obj/item/storage/bag/tray{
+	pixel_y = 6
+	},
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/item/food/chococornet{
+	pixel_x = 5;
+	pixel_y = 11
+	},
+/obj/item/food/cheesynachos{
+	pixel_x = 4;
+	pixel_y = 3
+	},
+/obj/item/food/carneburrito{
+	pixel_x = -6;
+	pixel_y = 7
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"RC" = (
+/obj/effect/turf_decal/siding/wood/corner,
+/obj/machinery/light/floor,
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"RN" = (
+/obj/structure/table/reinforced,
+/obj/item/kitchen/knife,
+/obj/item/kitchen/rollingpin,
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"RQ" = (
+/obj/structure/railing{
+	dir = 4
+	},
+/obj/structure/railing/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/iron/stairs/old{
+	color = "#825427";
+	dir = 1
+	},
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"RV" = (
+/obj/structure/table/wood,
+/obj/item/modular_computer/laptop/preset/civilian,
+/obj/item/food/cakeslice/korta_brittle{
+	pixel_x = -5;
+	pixel_y = 15
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Sh" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/obj/machinery/light/floor,
+/obj/effect/oneway,
+/obj/effect/oneway{
+	dir = 4
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"SF" = (
+/obj/effect/turf_decal/trimline/white/filled/line,
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Tn" = (
+/obj/structure/table/reinforced,
+/obj/item/reagent_containers/food/condiment/enzyme,
+/obj/effect/turf_decal/siding/thinplating/dark/end{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"TD" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"TL" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Uk" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/bookcase,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Ut" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Vb" = (
+/turf/open/floor/pod/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Vj" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral/full,
+/obj/machinery/light/floor,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Vo" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral,
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Vt" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral/full,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"VF" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/structure/railing{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood/end{
+	dir = 1
+	},
+/turf/open/floor/iron/stairs/old{
+	color = "#825427";
+	dir = 1
+	},
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Wf" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Wt" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/obj/structure/chair/sofa/corp/right{
+	dir = 4
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"WA" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 10
+	},
+/obj/structure/railing,
+/obj/effect/oneway,
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"WC" = (
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"WE" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/thinplating/dark,
+/obj/structure/railing,
+/obj/effect/oneway,
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"WU" = (
+/obj/structure/table/wood,
+/obj/machinery/computer/libraryconsole,
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Xc" = (
+/obj/structure/chair/sofa/corp/right{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Xk" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/railing/corner,
+/obj/effect/turf_decal/siding/thinplating/dark/corner,
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Xo" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/white/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Xq" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 6
+	},
+/obj/structure/railing,
+/obj/effect/oneway,
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Yh" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/table/wood,
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Yi" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Yk" = (
+/turf/closed/indestructible/iron,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Yo" = (
+/obj/structure/chair/sofa/corp/left{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Ys" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Yy" = (
+/obj/structure/table/wood,
+/obj/item/food/grown/korta_nut/sweet{
+	pixel_x = 7;
+	pixel_y = -15
+	},
+/obj/item/food/grown/korta_nut/sweet{
+	pixel_x = 2;
+	pixel_y = -7
+	},
+/obj/item/reagent_containers/food/drinks/bottle/mushi_kombucha{
+	pixel_x = 7;
+	pixel_y = 16
+	},
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass{
+	pixel_x = -7;
+	pixel_y = 4
+	},
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass{
+	pixel_x = -4;
+	pixel_y = 16
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/machinery/light/directional/east,
+/turf/open/floor/carpet/black,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"YB" = (
+/turf/closed/wall/mineral/titanium/nodiagonal,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"YP" = (
+/turf/closed/indestructible/fakeglass,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"YW" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Zl" = (
+/obj/structure/table/reinforced,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 4
+	},
+/obj/item/storage/box/drinkingglasses{
+	pixel_x = -5;
+	pixel_y = 4
+	},
+/obj/item/storage/box/drinkingglasses{
+	pixel_x = -5;
+	pixel_y = 15
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"Zy" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ZB" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ZC" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 8
+	},
+/obj/effect/oneway{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ZE" = (
+/obj/structure/table/reinforced,
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 4
+	},
+/obj/machinery/chem_dispenser/drinks/fullupgrade{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ZF" = (
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/floor/wood/tile,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ZJ" = (
+/obj/machinery/door/firedoor,
+/obj/machinery/door/airlock/centcom{
+	name = "Theatre Snack Bar";
+	req_access_txt = "28"
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ZN" = (
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/thinplating/dark{
+	dir = 8
+	},
+/obj/structure/table/wood/bar,
+/obj/machinery/door/firedoor,
+/turf/open/floor/iron/dark/smooth_large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+"ZP" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/machinery/light/floor,
+/obj/effect/oneway,
+/turf/open/floor/wood/large,
+/area/tdome/arena{
+	name = "Talent Show Theatre"
+	})
+
+(1,1,1) = {"
+on
+on
+on
+on
+YB
+kM
+YB
+on
+on
+on
+YB
+kM
+YB
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+"}
+(2,1,1) = {"
+on
+Yk
+on
+Dx
+YB
+mB
+YB
+Dx
+on
+Dx
+YB
+mB
+YB
+Dx
+on
+Yk
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+"}
+(3,1,1) = {"
+on
+Yk
+on
+YB
+hV
+mJ
+pp
+YB
+on
+YB
+wU
+mJ
+CE
+YB
+on
+Yk
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+"}
+(4,1,1) = {"
+on
+Yk
+on
+YB
+vw
+Hg
+pR
+YB
+on
+YB
+yp
+Hg
+DG
+YB
+on
+Yk
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+Yk
+Yk
+Yk
+Yk
+Yk
+on
+on
+on
+on
+on
+on
+"}
+(5,1,1) = {"
+on
+Yk
+on
+ey
+Hg
+Vb
+Hg
+ey
+on
+ey
+Hg
+Vb
+Hg
+ey
+on
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+ZE
+Zl
+xU
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+on
+"}
+(6,1,1) = {"
+on
+Yk
+on
+YB
+ie
+Hg
+qU
+YB
+on
+YB
+yz
+Hg
+Ec
+YB
+on
+Yk
+iy
+Gn
+LN
+TD
+WA
+Zy
+hh
+Vt
+hh
+Dg
+hh
+gY
+hh
+Yk
+Rv
+nR
+nR
+nR
+ME
+Yk
+ax
+ax
+nO
+Yk
+Yk
+"}
+(7,1,1) = {"
+on
+Yk
+on
+YB
+il
+Hg
+re
+YB
+on
+YB
+yV
+Hg
+pp
+YB
+on
+Yk
+pa
+eT
+LQ
+Bu
+WE
+Ys
+Ro
+AW
+Ro
+rV
+Ro
+AD
+Ro
+Yk
+IR
+nR
+zz
+nR
+nR
+ZJ
+KM
+KM
+KM
+LR
+Yk
+"}
+(8,1,1) = {"
+on
+Yk
+on
+Dx
+YB
+nj
+YB
+Dx
+on
+Dx
+YB
+nj
+YB
+Dx
+on
+Yk
+pa
+KT
+MK
+Vo
+Qk
+Ys
+Ro
+AW
+Ro
+rV
+Ro
+AD
+Ro
+Yk
+IN
+nR
+nR
+nR
+sG
+Yk
+KM
+vt
+KM
+pi
+Yk
+"}
+(9,1,1) = {"
+on
+Yk
+Yk
+Yk
+YP
+qo
+YP
+Yk
+Yk
+Yk
+YP
+qo
+YP
+Yk
+Yk
+Yk
+pa
+QW
+yn
+Vo
+Qk
+Ys
+Yo
+nG
+Yo
+yO
+Yo
+QV
+Yo
+Yk
+Yk
+ZN
+Is
+Is
+Yk
+Yk
+KM
+RN
+fw
+Yk
+Yk
+"}
+(10,1,1) = {"
+on
+on
+Yk
+KY
+iy
+nn
+nn
+nn
+tE
+nn
+nn
+nn
+nn
+Gn
+It
+JZ
+KE
+QW
+yn
+Vo
+Qk
+ZB
+in
+eS
+nE
+rC
+tp
+rC
+tp
+RQ
+uM
+bl
+bl
+Ge
+zR
+Yk
+KM
+Tn
+KM
+eW
+Yk
+"}
+(11,1,1) = {"
+on
+on
+YP
+eZ
+pa
+QW
+QW
+QW
+QW
+QW
+QW
+QW
+QW
+eT
+Lc
+pa
+QW
+QW
+yn
+Vo
+FM
+ZC
+ZC
+cU
+Ys
+Xc
+nG
+Xc
+yO
+Xc
+Xo
+Do
+Fy
+KK
+eq
+ZJ
+KM
+KM
+KM
+eW
+Yk
+"}
+(12,1,1) = {"
+on
+on
+Yk
+tH
+iK
+TL
+TL
+TL
+TL
+TL
+TL
+At
+QW
+eT
+Lc
+pa
+QW
+QW
+yn
+Vo
+Bu
+Bu
+Bu
+Qk
+Ys
+Ro
+AW
+Ro
+rV
+Ro
+Xo
+SF
+oG
+ff
+lV
+Yk
+MW
+Ff
+or
+Yk
+Yk
+"}
+(13,1,1) = {"
+Yk
+Yk
+Yk
+Yk
+Yk
+YP
+Jm
+YP
+Yk
+Yk
+Yk
+Be
+QW
+eT
+Lc
+pa
+QW
+QW
+Oe
+PS
+PS
+MK
+Vo
+Qk
+Ys
+Ro
+AW
+Ro
+rV
+Ro
+Xo
+uv
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+on
+"}
+(14,1,1) = {"
+Yk
+aQ
+cw
+ga
+iJ
+JD
+Bi
+Bi
+tL
+Yk
+zP
+pa
+QW
+eT
+Lc
+pa
+QW
+QW
+QW
+QW
+QW
+yn
+Vo
+Qk
+Ys
+Ro
+AW
+Ro
+rV
+Ro
+Xo
+SF
+Yk
+ah
+IV
+px
+Ge
+ck
+tn
+Yk
+Yk
+"}
+(15,1,1) = {"
+YP
+aR
+WC
+gl
+NE
+JD
+Bi
+Bi
+tW
+Yk
+cG
+pa
+QW
+eT
+Lc
+pa
+QW
+QW
+QW
+QW
+QW
+yn
+Vo
+Qk
+Ys
+Yo
+nG
+Yo
+yO
+Yo
+Xo
+SF
+xA
+px
+bl
+oe
+kb
+bl
+bl
+Ge
+lU
+"}
+(16,1,1) = {"
+YP
+aU
+WC
+gl
+iU
+JD
+Bi
+Bi
+uV
+Yk
+Aj
+pa
+QW
+eT
+Lc
+pa
+QW
+QW
+QW
+QW
+QW
+ZP
+Vo
+Qk
+Ys
+VF
+as
+Fl
+as
+Fl
+gc
+SF
+xA
+Cy
+Kp
+Kp
+Kp
+Kp
+Kp
+SF
+lU
+"}
+(17,1,1) = {"
+YP
+bH
+WC
+gl
+iV
+JD
+Bi
+Bi
+Yk
+Yk
+Yk
+pa
+QW
+eT
+Lc
+pa
+QW
+QW
+QW
+QW
+QW
+yn
+Vo
+Qk
+Ys
+Xc
+nG
+Xc
+yO
+Xc
+Xo
+SF
+xA
+aT
+Fy
+aY
+Kp
+Do
+Fy
+ji
+lU
+"}
+(18,1,1) = {"
+Yk
+cm
+YW
+gr
+jX
+JD
+Bi
+Bi
+hn
+Wt
+Yk
+Be
+QW
+eT
+Lc
+pa
+QW
+QW
+QW
+QW
+QW
+yn
+Vo
+Qk
+Ys
+Ro
+AW
+Ro
+rV
+Ro
+Xo
+SF
+Yk
+ah
+zy
+aT
+Fy
+ji
+mp
+Yk
+Yk
+"}
+(19,1,1) = {"
+Yk
+Yk
+cF
+Yk
+Yk
+Yk
+Bi
+Bi
+vW
+wn
+Yk
+pa
+QW
+eT
+Lc
+pa
+QW
+QW
+RC
+sP
+sP
+Sh
+Vo
+Qk
+Ys
+Ro
+AW
+Ro
+rV
+Ro
+Xo
+uv
+Yk
+Yk
+Yk
+Pk
+Pk
+Pk
+Yk
+Yk
+on
+"}
+(20,1,1) = {"
+Yk
+fj
+ex
+hi
+cF
+Bi
+Bi
+Bi
+hT
+kJ
+Yk
+pa
+QW
+eT
+Lc
+pa
+QW
+QW
+yn
+Vo
+Bu
+Bu
+Bu
+Qk
+Ys
+Ro
+AW
+Ro
+rV
+Ro
+Xo
+SF
+pr
+Yk
+Lj
+PB
+PB
+PB
+DB
+Yk
+Yk
+"}
+(21,1,1) = {"
+Yk
+Yk
+Yk
+Yk
+Yk
+Bi
+Bi
+Bi
+Yk
+Yk
+Yk
+pa
+QW
+eT
+Lc
+pa
+QW
+QW
+yn
+Vo
+Xk
+AV
+AV
+it
+Ys
+Yo
+nG
+Yo
+yO
+Yo
+Xo
+SF
+tj
+Yk
+LS
+WC
+WC
+WC
+tF
+nF
+Yk
+"}
+(22,1,1) = {"
+on
+on
+Yk
+hn
+Wt
+Bi
+Bi
+Bi
+hn
+Wt
+Yk
+iK
+TL
+GK
+Je
+Ka
+At
+QW
+yn
+Vo
+Qk
+Zy
+KX
+PZ
+ql
+tp
+rC
+tp
+rC
+tp
+HA
+ji
+qZ
+Yk
+FT
+YW
+YW
+af
+WC
+kr
+Yk
+"}
+(23,1,1) = {"
+on
+on
+Yk
+hC
+kF
+Bi
+Bi
+Bi
+wc
+wF
+Yk
+Yk
+Bd
+Yk
+Yk
+Yk
+pa
+QW
+yn
+Vo
+Qk
+Ys
+Xc
+Vj
+Xc
+yO
+Xc
+QV
+Xc
+Yk
+Yk
+Yk
+Yk
+Yk
+Id
+me
+Mh
+Yi
+ZF
+Ke
+Yk
+"}
+(24,1,1) = {"
+on
+on
+Yk
+hT
+kJ
+Bi
+Bi
+Bi
+hT
+kJ
+Yk
+Bw
+ia
+HT
+Hp
+Yk
+pa
+Lg
+Sh
+Vo
+Qk
+Ys
+Ro
+sJ
+Ro
+rV
+Ro
+AD
+Ro
+Yk
+fW
+jK
+Yk
+Ut
+sz
+Ci
+Yh
+Yi
+Lt
+Yk
+Yk
+"}
+(25,1,1) = {"
+on
+on
+Yk
+Yk
+Yk
+po
+sQ
+sS
+Yk
+Yk
+Yk
+BE
+Gd
+HU
+Bw
+Yk
+pa
+eT
+LN
+Bu
+WE
+Ys
+Ro
+sJ
+Ro
+rV
+Ro
+AD
+Ro
+Yk
+Od
+Ph
+dD
+gx
+zz
+te
+Bp
+Yi
+Uk
+Yk
+on
+"}
+(26,1,1) = {"
+on
+on
+on
+on
+Yk
+YP
+YP
+YP
+Yk
+on
+Yk
+Cg
+Eg
+Ii
+Jr
+Yk
+iK
+GK
+LQ
+Wf
+Xq
+ZB
+vA
+DK
+vA
+Jc
+vA
+IO
+vA
+Yk
+mI
+wt
+Yk
+gx
+Ci
+Ph
+Pz
+FT
+KI
+Yk
+on
+"}
+(27,1,1) = {"
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+Yk
+CC
+Ey
+Bw
+JM
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+WU
+Yy
+RV
+Yk
+Yk
+Yk
+Yk
+on
+"}
+(28,1,1) = {"
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+Yk
+Yk
+Yk
+Yk
+Yk
+Yk
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+on
+Yk
+Yk
+kz
+Yk
+Yk
+on
+on
+on
+on
+"}

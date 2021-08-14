@@ -1,0 +1,23 @@
+you'll need:
+[5:14 AM]
+/obj/machinery/bci_implanter
+ATHATH — Today at 5:15 AM
+on one table:
+/obj/item/reagent_containers/glass/bottle/potassium
+/obj/item/reagent_containers/glass/bottle/water
+/obj/item/reagent_containers/syringe
+/obj/item/reagent_containers/syringe
+/obj/item/reagent_containers/syringe/contraband/saturnx
+[5:15 AM]
+a stasis bed
+[5:15 AM]
+a station-bounced radio with its microphone and speaker turned on
+[5:15 AM]
+the circuit
+[5:16 AM]
+and an announcement calling two volunteers onto the stage, telling one of the volunteers to pick up the radio and enter the implanter, and telling the volunteer who went into the implanter to press the action button labeled "1"
+[5:16 AM]
+if you wanted to go the extra mile
+you could make an ID with Jack Jackson's name on it
+and a voice changing mask
+and give them to the volunteer who will enter the implanter

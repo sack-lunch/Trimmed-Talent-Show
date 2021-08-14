@@ -1,0 +1,37 @@
+"a" = (/obj/effect/turf_decal/siding/wood{dir = 1},/obj/effect/oneway{dir = 1},/turf/open/floor/iron/dark/smooth_large,/area/tdome/arena{name = "Talent Show Theatre"})
+"d" = (/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/obj/structure/alien/weeds/node,/obj/item/organ/alien/eggsac,/obj/effect/decal/cleanable/insectguts,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"g" = (/obj/effect/turf_decal/siding/wood{dir = 9},/obj/effect/oneway{dir = 1},/obj/effect/oneway{dir = 8},/turf/open/floor/iron/dark/smooth_large,/area/tdome/arena{name = "Talent Show Theatre"})
+"j" = (/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral{dir = 4},/turf/open/floor/iron/dark,/area/tdome/arena{name = "Talent Show Theatre"})
+"k" = (/obj/structure/alien/weeds,/obj/structure/grille/indestructable,/obj/effect/spawner/structure/window/plasma,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"l" = (/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"m" = (/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/structure/railing/corner{dir = 8},/obj/effect/turf_decal/siding/thinplating/dark/corner{dir = 8},/turf/open/floor/iron/dark,/area/tdome/arena{name = "Talent Show Theatre"})
+"n" = (/obj/effect/turf_decal/siding/wood/corner{dir = 1},/obj/effect/turf_decal/siding/wood/corner{dir = 4},/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/effect/turf_decal/tile/neutral,/turf/open/floor/iron/dark,/area/tdome/arena{name = "Talent Show Theatre"})
+"o" = (/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/obj/item/toy/cattoy,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"q" = (/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/obj/item/food/grown/ambrosia,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"r" = (/obj/structure/alien/weeds,/obj/item/food/deadmouse,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"s" = (/obj/structure/alien/weeds,/obj/item/food/grown/ambrosia,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"t" = (/obj/structure/alien/weeds,/obj/effect/decal/remains/xeno,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"v" = (/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/obj/effect/decal/cleanable/insectguts,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"x" = (/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/structure/railing,/obj/effect/turf_decal/siding/thinplating/dark,/obj/effect/oneway,/turf/open/floor/iron/dark,/area/tdome/arena{name = "Talent Show Theatre"})
+"y" = (/obj/machinery/door/window{dir = 1},/obj/structure/alien/weeds,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"A" = (/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/structure/railing/corner,/obj/effect/turf_decal/siding/thinplating/dark/corner,/turf/open/floor/iron/dark,/area/tdome/arena{name = "Talent Show Theatre"})
+"B" = (/obj/structure/alien/weeds,/obj/structure/bed/nest,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"C" = (/obj/structure/alien/weeds,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"D" = (/obj/structure/alien/weeds,/obj/effect/decal/cleanable/blood/xtracks,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"F" = (/obj/structure/alien/weeds,/obj/structure/alien/egg/grown,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"H" = (/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/obj/effect/decal/cleanable/blood/xtracks,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"M" = (/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/structure/railing{dir = 8},/obj/effect/turf_decal/siding/thinplating/dark{dir = 8},/obj/effect/oneway{dir = 8},/turf/open/floor/iron/dark,/area/tdome/arena{name = "Talent Show Theatre"})
+"N" = (/obj/effect/turf_decal/siding/wood{dir = 5},/obj/effect/oneway{dir = 1},/obj/effect/oneway{dir = 4},/turf/open/floor/iron/dark/smooth_large,/area/tdome/arena{name = "Talent Show Theatre"})
+"Q" = (/obj/structure/alien/weeds,/obj/structure/bed/dogbed,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"V" = (/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/obj/item/organ/body_egg/alien_embryo,/turf/open/floor/mineral/titanium/tiled,/area/tdome/arena)
+"Z" = (/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/structure/railing{dir = 4},/obj/effect/turf_decal/siding/thinplating/dark{dir = 4},/obj/effect/oneway{dir = 4},/turf/open/floor/iron/dark,/area/tdome/arena{name = "Talent Show Theatre"})
+
+(1,1,1) = {"
+kkkkkkkykkkkkkk
+kQlsrtCCCFCColk
+kQCClCvClCCCCqk
+kkkkkBDCdlkkkkk
+nnnnkCDClCknnnn
+xxmjkVHCCCkjAxx
+aNMjkkkkkkkjZga
+"}

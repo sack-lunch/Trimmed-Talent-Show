@@ -1,0 +1,332 @@
+"aj" = (/obj/structure/sign/departments/botany,/turf/closed/wall/mineral/wood/nonmetal,/area/tdome/arena)
+"ar" = (/obj/effect/light_emitter,/obj/structure/curtain/cloth/fancy/mechanical,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"aB" = (/obj/effect/light_emitter,/turf/open/floor/plating/dirt,/area/tdome/arena)
+"aF" = (/obj/machinery/vending/cola/starkist,/turf/open/floor/carpet/green,/area/tdome/arena)
+"aG" = (/obj/machinery/light{dir = 1},/obj/machinery/firealarm,/turf/closed/wall/mineral/wood/nonmetal,/area/tdome/arena)
+"aH" = (/obj/machinery/vending/cola,/turf/open/floor/carpet/stellar,/area/tdome/arena)
+"aI" = (/obj/structure/table/wood,/obj/machinery/chem_dispenser/drinks/beer/fullupgrade,/turf/open/floor/carpet/green,/area/tdome/arena)
+"bc" = (/obj/machinery/atmospherics/components/unary/outlet_injector/on,/turf/open/floor/plating/rust,/area/tdome/arena)
+"bN" = (/obj/structure/curtain/cloth/fancy/mechanical,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"cb" = (/obj/machinery/airalarm{dir = 1},/turf/closed/indestructible/wood,/area/tdome/arena)
+"cf" = (/turf/open/floor/plating/rust,/area/tdome/arena)
+"cg" = (/obj/machinery/light{dir = 8},/turf/closed/wall/mineral/wood/nonmetal,/area/tdome/arena)
+"dg" = (/obj/machinery/vending/hydroseeds,/turf/open/floor/grass,/area/tdome/arena)
+"dC" = (/obj/machinery/vending/cigarette,/turf/open/floor/carpet/stellar,/area/tdome/arena)
+"dV" = (/obj/structure/chair/greyscale,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"en" = (/obj/machinery/door/window/brigdoor/security/holding/northleft,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"eF" = (/obj/effect/decal/cleanable/glitter/pink,/obj/structure/destructible/cult/tome,/turf/open/floor/grass,/area/tdome/arena)
+"eU" = (/obj/machinery/hydroponics/constructable,/turf/open/floor/grass,/area/tdome/arena)
+"fe" = (/obj/structure/grille/indestructable,/obj/structure/window/reinforced/fulltile,/turf/open/space/basic,/area/tdome/arena)
+"ft" = (/obj/structure/bookcase,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"fC" = (/obj/structure/table/glass,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"fH" = (/obj/machinery/firealarm,/turf/closed/indestructible/wood,/area/tdome/arena)
+"fO" = (/turf/open/floor/carpet,/area/tdome/arena)
+"gc" = (/obj/machinery/atmospherics/components/binary/valve/on,/turf/closed/indestructible/wood,/area/tdome/arena)
+"gg" = (/obj/structure/table/reinforced,/obj/item/pizzabox/pineapple,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"gt" = (/obj/machinery/light{dir = 1},/obj/machinery/airalarm,/turf/closed/indestructible/wood,/area/tdome/arena)
+"gP" = (/obj/effect/light_emitter,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"gT" = (/obj/structure/closet/secure_closet/freezer/fridge,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/turf/open/floor/iron/freezer,/area/tdome/arena)
+"hx" = (/obj/machinery/vending/cigarette,/turf/open/floor/carpet/orange,/area/tdome/arena)
+"iD" = (/obj/machinery/vending/boozeomat/all_access,/turf/open/floor/carpet/green,/area/tdome/arena)
+"jP" = (/obj/structure/table/reinforced,/obj/item/storage/box/handcuffs,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"jS" = (/obj/structure/curtain/cloth/fancy/mechanical{id = 13},/obj/structure/curtain/cloth/fancy/mechanical,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"jU" = (/obj/machinery/griddle/stand,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"kd" = (/obj/item/kirbyplants/fullysynthetic,/turf/open/floor/carpet/green,/area/tdome/arena)
+"kf" = (/obj/structure/grille/indestructable,/obj/effect/spawner/structure/window/reinforced/indestructable,/turf/open/space/basic,/area/tdome/arena)
+"kj" = (/obj/machinery/light{dir = 1},/turf/closed/indestructible/wood,/area/tdome/arena)
+"li" = (/obj/structure/table/wood/poker,/obj/structure/table/wood/poker,/turf/open/floor/carpet/green,/area/tdome/arena)
+"lR" = (/obj/item/kirbyplants/photosynthetic,/turf/open/indestructible,/area/tdome/arena)
+"lV" = (/obj/machinery/button{id = 13},/turf/closed/indestructible/wood,/area/tdome/arena)
+"ma" = (/obj/machinery/door/airlock/freezer,/obj/machinery/door/firedoor,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"mt" = (/obj/structure/table/wood,/obj/item/reagent_containers/glass/bowl,/obj/item/food/mint,/obj/item/food/mint,/obj/item/food/mint,/obj/item/food/mint,/obj/item/food/mint,/obj/item/food/mint,/obj/item/food/mint,/obj/item/food/mint,/turf/open/floor/carpet/green,/area/tdome/arena)
+"mE" = (/obj/structure/table/wood,/obj/item/paper/pamphlet/centcom,/obj/item/paper/pamphlet/centcom,/obj/item/paper/pamphlet/centcom,/obj/item/paper/pamphlet/centcom,/obj/item/paper/pamphlet/centcom,/obj/item/paper/pamphlet/centcom,/obj/item/paper/pamphlet/centcom,/obj/item/paper/pamphlet/centcom,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"mS" = (/obj/structure/cable,/obj/structure/grille/indestructable,/obj/machinery/door/poddoor/shutters{id = 777},/turf/open/floor/plating/rust,/area/tdome/arena)
+"mU" = (/obj/machinery/seed_extractor,/turf/open/floor/grass,/area/tdome/arena)
+"mV" = (/obj/machinery/atmospherics/components/unary/portables_connector,/turf/open/floor/plating,/area/tdome/arena)
+"nc" = (/obj/machinery/door/airlock/public/glass/incinerator,/obj/machinery/door/firedoor,/turf/open/floor/carpet/green,/area/tdome/arena)
+"nk" = (/obj/structure/closet/secure_closet/security,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"nl" = (/obj/effect/decal/cleanable/glitter/pink,/obj/effect/decal/cleanable/glitter/white,/obj/item/clothing/head/wizard/fake,/turf/open/floor/plating/dirt/jungle/wasteland,/area/tdome/arena)
+"nH" = (/obj/effect/light_emitter,/turf/open/floor/carpet/lone,/area/tdome/arena)
+"nR" = (/obj/structure/table/wood/fancy,/obj/item/reagent_containers/food/drinks/soda_cans/dr_gibb,/turf/open/floor/carpet,/area/tdome/arena)
+"of" = (/obj/structure/table/wood/fancy,/obj/item/radio/intercom,/turf/open/floor/carpet,/area/tdome/arena)
+"oj" = (/obj/effect/forcefield,/turf/open/floor/carpet,/area/tdome/arena)
+"on" = (/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"oA" = (/obj/effect/decal/cleanable/blood/gibs,/obj/effect/decal/cleanable/blood/footprints,/turf/open/floor/iron/freezer,/area/tdome/arena)
+"oL" = (/obj/structure/table/wood,/obj/item/clothing/accessory/lawyers_badge,/obj/item/clothing/accessory/lawyers_badge,/obj/item/clothing/accessory/lawyers_badge,/obj/item/clothing/accessory/lawyers_badge,/obj/item/clothing/accessory/lawyers_badge,/obj/item/clothing/accessory/lawyers_badge,/turf/open/floor/carpet,/area/tdome/arena)
+"oQ" = (/obj/structure/sign/poster/contraband/donut_corp,/turf/closed/indestructible/wood,/area/tdome/arena)
+"oS" = (/obj/machinery/computer/security,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"oY" = (/obj/item/kirbyplants/fullysynthetic,/turf/open/floor/carpet/orange,/area/tdome/arena)
+"pg" = (/obj/item/kirbyplants/photosynthetic,/turf/open/floor/carpet/orange,/area/tdome/arena)
+"pu" = (/obj/item/kirbyplants/dead,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"py" = (/obj/effect/decal/cleanable/glitter/pink,/obj/effect/light_emitter,/turf/open/floor/grass,/area/tdome/arena)
+"pG" = (/obj/machinery/griddle,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"pS" = (/obj/structure/table/reinforced,/turf/open/floor/carpet/green,/area/tdome/arena)
+"qa" = (/turf/open/floor/grass,/area/tdome/arena)
+"qj" = (/obj/structure/table/wood/poker,/obj/item/reagent_containers/food/drinks/drinkingglass,/turf/open/floor/carpet/green,/area/tdome/arena)
+"qm" = (/obj/effect/rune,/turf/open/floor/carpet,/area/tdome/arena)
+"qZ" = (/obj/structure/curtain/cloth/fancy/mechanical,/obj/structure/curtain/cloth/fancy/mechanical,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"ri" = (/obj/structure/table/wood/poker,/obj/item/paper,/turf/open/floor/carpet/green,/area/tdome/arena)
+"rN" = (/obj/structure/chair/wood/wings{dir = 1},/obj/structure/chair/wood/wings{dir = 1},/turf/open/floor/carpet,/area/tdome/arena)
+"rQ" = (/obj/structure/table/wood,/obj/item/storage/briefcase/lawyer,/obj/item/storage/briefcase/lawyer,/obj/item/storage/briefcase/lawyer,/obj/item/storage/briefcase/lawyer,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"sf" = (/obj/structure/table/reinforced,/obj/item/cultivator,/obj/item/seeds/apple/gold,/obj/item/reagent_containers/glass/bottle/nutrient,/turf/open/floor/grass,/area/tdome/arena)
+"so" = (/obj/structure/table/glass,/obj/machinery/computer/libraryconsole,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"ss" = (/obj/structure/table,/obj/item/candle/infinite,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"su" = (/obj/effect/decal/cleanable/blood/gibs,/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/iron/freezer,/area/tdome/arena)
+"sC" = (/turf/open/floor/carpet/green,/area/tdome/arena)
+"sH" = (/obj/structure/cable,/obj/structure/cable,/obj/structure/grille/indestructable,/obj/machinery/door/poddoor/shutters{id = 777},/turf/open/floor/plating/rust,/area/tdome/arena)
+"sI" = (/obj/machinery/vending/security,/turf/open/indestructible,/area/tdome/arena)
+"sN" = (/turf/open/floor/carpet/neon/simple/green/nodots/airless,/area/space)
+"tB" = (/obj/structure/table/wood/poker,/obj/item/paper,/obj/item/paper,/turf/open/floor/carpet/green,/area/tdome/arena)
+"tX" = (/obj/structure/table/wood,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/obj/item/binoculars,/turf/open/floor/carpet/stellar,/area/tdome/arena)
+"un" = (/obj/machinery/door/airlock/wood/glass,/obj/machinery/door/firedoor,/turf/open/floor/wood,/area/tdome/arena)
+"uv" = (/obj/machinery/door/window/westright,/turf/open/floor/carpet/green,/area/tdome/arena)
+"uA" = (/obj/item/kirbyplants,/turf/open/floor/carpet/orange,/area/tdome/arena)
+"uT" = (/obj/machinery/smartfridge/drying_rack,/turf/open/floor/grass,/area/tdome/arena)
+"vz" = (/obj/item/chair/plastic,/obj/item/chair/plastic,/obj/item/chair/plastic,/obj/item/chair/plastic,/turf/open/floor/carpet/orange,/area/tdome/arena)
+"vJ" = (/obj/machinery/light{dir = 1},/obj/machinery/firealarm,/turf/closed/indestructible/wood,/area/tdome/arena)
+"we" = (/obj/machinery/computer/security,/turf/open/indestructible,/area/tdome/arena)
+"wv" = (/obj/machinery/vending/dinnerware,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"wz" = (/obj/machinery/atmospherics/components/unary/portables_connector/visible{dir = 1},/obj/machinery/portable_atmospherics/canister/nitrous_oxide,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"wE" = (/obj/machinery/door/airlock/silver/glass,/obj/machinery/door/firedoor,/turf/open/floor/carpet,/area/tdome/arena)
+"wN" = (/obj/structure/table/reinforced,/obj/structure/table/reinforced,/obj/machinery/door/firedoor,/obj/machinery/door/firedoor,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"wO" = (/obj/effect/decal/cleanable/blood/footprints,/turf/open/floor/iron/freezer,/area/tdome/arena)
+"wS" = (/obj/machinery/airalarm,/turf/closed/wall/mineral/wood/nonmetal,/area/tdome/arena)
+"xd" = (/obj/machinery/door/firedoor,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"xh" = (/obj/machinery/computer/camera_advanced/syndie,/turf/open/indestructible,/area/tdome/arena)
+"xo" = (/turf/open/floor/carpet/lone,/area/tdome/arena)
+"xw" = (/obj/structure/table/wood,/obj/item/binoculars,/turf/open/floor/carpet/green,/area/tdome/arena)
+"xE" = (/obj/item/kirbyplants/random,/obj/machinery/atmospherics/components/unary/outlet_injector/on,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"xW" = (/obj/structure/table/wood/fancy,/obj/item/reagent_containers/glass/bowl,/obj/item/food/mint,/obj/item/food/mint,/obj/item/food/mint,/obj/item/food/mint,/obj/item/food/mint,/turf/open/floor/carpet/orange,/area/tdome/arena)
+"yg" = (/turf/open/space/basic,/area/space)
+"yh" = (/obj/structure/table/wood/poker,/obj/item/lighter,/turf/open/floor/carpet/green,/area/tdome/arena)
+"ym" = (/obj/machinery/vending/autodrobe/all_access,/turf/open/floor/carpet/green,/area/tdome/arena)
+"yo" = (/turf/open/indestructible,/area/tdome/arena)
+"yY" = (/obj/effect/decal/cleanable/glitter/pink,/obj/structure/flora/tree/jungle,/obj/effect/decal/cleanable/glitter/white,/turf/open/floor/plating/dirt,/area/tdome/arena)
+"zn" = (/obj/structure/table/glass,/obj/item/plant_analyzer,/turf/open/floor/grass,/area/tdome/arena)
+"zp" = (/obj/effect/decal/cleanable/glitter/pink,/obj/effect/decal/cleanable/glitter/white,/turf/open/floor/grass,/area/tdome/arena)
+"zq" = (/obj/structure/closet/secure_closet/brig,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"zB" = (/obj/structure/chair/comfy/teal,/turf/open/floor/carpet/green,/area/tdome/arena)
+"zI" = (/turf/open/floor/plating,/area/tdome/arena)
+"As" = (/obj/structure/table/wood/fancy,/obj/structure/table/wood/fancy,/obj/item/reagent_containers/food/drinks/soda_cans/dr_gibb,/turf/open/floor/carpet,/area/tdome/arena)
+"Av" = (/obj/structure/cable,/obj/structure/grille/indestructable,/obj/structure/window/reinforced/fulltile/indestructable,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"AB" = (/obj/item/kirbyplants/photosynthetic,/turf/open/floor/carpet/green,/area/tdome/arena)
+"AJ" = (/obj/structure/closet/secure_closet/freezer/fridge,/turf/open/floor/carpet/green,/area/tdome/arena)
+"AK" = (/obj/structure/closet/crate/goldcrate,/turf/open/floor/plating,/area/tdome/arena)
+"Bb" = (/obj/machinery/vending/security,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"BQ" = (/obj/structure/reagent_dispensers/fueltank,/turf/open/floor/plating/rust,/area/tdome/arena)
+"Ca" = (/obj/machinery/door/airlock/wood/glass,/turf/closed/wall/mineral/wood/nonmetal,/area/tdome/arena)
+"Cc" = (/obj/machinery/light,/turf/closed/indestructible/wood,/area/tdome/arena)
+"Ch" = (/turf/closed/wall/mineral/wood/nonmetal,/area/tdome/arena)
+"Cs" = (/obj/structure/table/reinforced,/obj/item/reagent_containers/food/condiment/enzyme,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"Cw" = (/obj/structure/closet/l3closet/security,/turf/open/indestructible,/area/tdome/arena)
+"CC" = (/obj/effect/light_emitter,/turf/open/floor/carpet,/area/tdome/arena)
+"CI" = (/obj/structure/table/wood,/obj/item/cartridge/lawyer,/obj/item/cartridge/lawyer,/obj/item/cartridge/lawyer,/obj/item/cartridge/lawyer,/obj/item/cartridge/lawyer,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"CP" = (/obj/effect/decal/cleanable/blood/gibs,/obj/effect/decal/cleanable/blood/footprints{dir = 4},/turf/open/floor/iron/freezer,/area/tdome/arena)
+"CS" = (/obj/effect/decal/cleanable/glitter/pink,/obj/item/stack/sheet/greatergem,/turf/open/floor/grass,/area/tdome/arena)
+"De" = (/obj/structure/grille,/obj/effect/spawner/structure/window/reinforced,/turf/open/floor/grass,/area/tdome/arena)
+"Df" = (/obj/structure/table/wood,/obj/item/clothing/suit/toggle/lawyer,/obj/item/clothing/suit/toggle/lawyer,/obj/item/clothing/suit/toggle/lawyer,/obj/item/clothing/suit/toggle/lawyer,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"Dj" = (/obj/effect/decal/cleanable/food/flour,/obj/effect/decal/cleanable/food/flour,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"Dw" = (/turf/open/floor/iron/freezer,/area/tdome/arena)
+"DC" = (/obj/machinery/door/airlock,/obj/machinery/door/firedoor,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"DI" = (/turf/open/floor/iron/cafeteria,/area/tdome/arena)
+"Ep" = (/obj/machinery/vending/snack,/turf/open/floor/carpet/green,/area/tdome/arena)
+"Eu" = (/obj/item/chair/plastic,/obj/item/chair/plastic,/obj/item/chair/plastic,/turf/open/floor/carpet/orange,/area/tdome/arena)
+"Ev" = (/obj/effect/decal/cleanable/blood/footprints{dir = 4},/obj/effect/decal/cleanable/blood/footprints,/turf/open/floor/iron/freezer,/area/tdome/arena)
+"Ex" = (/obj/effect/decal/cleanable/blood/gibs,/turf/open/floor/iron/freezer,/area/tdome/arena)
+"ET" = (/obj/structure/plaque/static_plaque{name = Most famous lizard award},/turf/closed/indestructible/wood,/area/tdome/arena)
+"Fh" = (/obj/effect/decal/cleanable/glitter/pink,/obj/effect/decal/cleanable/glitter/white,/obj/structure/bookcase/random/religion,/turf/open/floor/grass,/area/tdome/arena)
+"Fy" = (/turf/open/floor/iron/stairs,/area/tdome/arena)
+"FD" = (/obj/structure/table/wood/fancy,/obj/item/candle/infinite,/turf/open/floor/carpet/orange,/area/tdome/arena)
+"FZ" = (/obj/machinery/vending/wardrobe,/turf/open/floor/carpet/green,/area/tdome/arena)
+"Gr" = (/obj/machinery/door/airlock/public,/obj/machinery/door/firedoor,/turf/open/floor/carpet/stellar,/area/tdome/arena)
+"GI" = (/obj/structure/table/reinforced,/obj/machinery/reagentgrinder,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"GY" = (/obj/machinery/door/airlock/security,/obj/machinery/door/firedoor,/turf/open/floor/carpet/stellar,/area/tdome/arena)
+"Hd" = (/obj/machinery/light{dir = 4},/turf/closed/indestructible/wood,/area/tdome/arena)
+"HB" = (/obj/machinery/vending/wardrobe/sec_wardrobe,/turf/open/indestructible,/area/tdome/arena)
+"HD" = (/obj/effect/decal/cleanable/glitter/pink,/obj/effect/decal/cleanable/glitter/white,/obj/effect/decal/cleanable/glitter/pink,/turf/open/floor/grass,/area/tdome/arena)
+"HV" = (/obj/structure/closet,/turf/open/floor/carpet/stellar,/area/tdome/arena)
+"Ik" = (/obj/effect/decal/cleanable/glitter/pink,/turf/open/floor/grass,/area/tdome/arena)
+"Im" = (/obj/item/kirbyplants,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"Io" = (/turf/open/floor/carpet/orange,/area/tdome/arena)
+"IG" = (/obj/structure/table/wood/poker,/obj/item/clothing/mask/cigarette/rollie,/turf/open/floor/carpet/green,/area/tdome/arena)
+"Jq" = (/obj/structure/table/reinforced,/obj/machinery/door/firedoor,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"JV" = (/obj/machinery/atmospherics/pipe/smart,/turf/open/floor/plating/rust,/area/tdome/arena)
+"Kk" = (/obj/effect/rune/malformed,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"Kx" = (/obj/machinery/firealarm,/turf/closed/wall/mineral/wood/nonmetal,/area/tdome/arena)
+"KO" = (/obj/machinery/button{id = 777},/turf/closed/indestructible/wood,/area/tdome/arena)
+"Lr" = (/obj/structure/plaque/static_plaque/golden/commission/donut,/turf/closed/indestructible/wood,/area/tdome/arena)
+"LP" = (/obj/structure/sink/kitchen,/turf/closed/indestructible/wood,/area/tdome/arena)
+"LQ" = (/obj/machinery/vending/drugs,/turf/open/floor/carpet/green,/area/tdome/arena)
+"Mf" = (/obj/structure/closet/secure_closet/freezer/fridge,/obj/item/reagent_containers/food/condiment/flour,/obj/item/reagent_containers/food/condiment/flour,/obj/item/reagent_containers/food/condiment/flour,/obj/item/reagent_containers/food/condiment/rice,/obj/item/reagent_containers/food/condiment/rice,/obj/item/reagent_containers/food/condiment/rice,/obj/item/reagent_containers/food/condiment/sugar,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"Mj" = (/obj/machinery/door/window/brigdoor/northright,/obj/structure/table/reinforced,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"Mk" = (/obj/machinery/light{dir = 8},/turf/closed/indestructible/wood,/area/tdome/arena)
+"MA" = (/obj/structure/bed,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"MJ" = (/obj/machinery/computer/camera_advanced/syndie,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"No" = (/obj/machinery/door/window,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"NF" = (/turf/open/floor/carpet/stellar,/area/tdome/arena)
+"NS" = (/obj/machinery/vending/wardrobe/sec_wardrobe,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"Ol" = (/obj/machinery/door/airlock/silver,/obj/machinery/door/firedoor,/turf/open/floor/carpet,/area/tdome/arena)
+"Oo" = (/obj/effect/forcefield,/obj/effect/forcefield,/turf/open/floor/carpet,/area/tdome/arena)
+"Ox" = (/obj/effect/decal/cleanable/glitter/pink,/obj/effect/temp_visual/cult/rune_spawn/rune2,/obj/item/bouquet/rose,/obj/structure/ladder/unbreakable/rune,/turf/open/floor/grass,/area/tdome/arena)
+"OB" = (/obj/machinery/light{dir = 8},/obj/machinery/airalarm{dir = 4},/turf/closed/indestructible/wood,/area/tdome/arena)
+"OD" = (/obj/structure/mirror,/turf/closed/wall/mineral/wood/nonmetal,/area/tdome/arena)
+"OF" = (/obj/machinery/door/airlock/security,/obj/machinery/door/firedoor,/turf/open/floor/carpet/orange,/area/tdome/arena)
+"OI" = (/obj/structure/closet/secure_closet/freezer/fridge,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/turf/open/floor/iron/freezer,/area/tdome/arena)
+"OJ" = (/obj/machinery/door/airlock/security,/obj/machinery/door/firedoor,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"OK" = (/obj/item/kirbyplants/photosynthetic,/turf/open/floor/carpet/stellar,/area/tdome/arena)
+"OW" = (/obj/machinery/icecream_vat,/turf/open/floor/iron/freezer,/area/tdome/arena)
+"PZ" = (/obj/machinery/vending/cigarette,/turf/open/floor/carpet/green,/area/tdome/arena)
+"Qd" = (/obj/structure/table/reinforced,/obj/item/kitchen/rollingpin,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"Qe" = (/obj/item/chair/plastic,/obj/item/chair/plastic,/obj/item/chair/plastic,/obj/item/chair/plastic,/obj/item/chair/plastic,/turf/open/floor/carpet/orange,/area/tdome/arena)
+"Qt" = (/obj/structure/table/reinforced,/obj/machinery/microwave,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"QE" = (/obj/effect/decal/cleanable/glitter/pink,/obj/effect/rune/apocalypse,/turf/open/floor/grass,/area/tdome/arena)
+"Re" = (/obj/structure/table/wood/poker,/turf/open/floor/carpet/green,/area/tdome/arena)
+"Rs" = (/obj/structure/table/wood/poker,/obj/item/storage/fancy/cigarettes/cigpack_cannabis,/turf/open/floor/carpet/green,/area/tdome/arena)
+"Rt" = (/obj/structure/kitchenspike,/turf/open/floor/iron/freezer,/area/tdome/arena)
+"RU" = (/obj/structure/table/reinforced,/obj/item/book/manual/chef_recipes,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"RX" = (/obj/machinery/deepfryer,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"Sb" = (/obj/effect/decal/cleanable/glitter/pink,/obj/structure/flora/rock,/turf/open/floor/plating/dirt/jungle/wasteland,/area/tdome/arena)
+"SB" = (/obj/structure/chair/wood/wings{dir = 1},/turf/open/floor/carpet,/area/tdome/arena)
+"Tf" = (/obj/effect/rune/teleport,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"Tg" = (/obj/effect/decal/cleanable/glitter/pink,/obj/effect/decal/cleanable/glitter/white,/obj/effect/forcefield/wizard,/obj/item/bouquet/rose,/turf/open/floor/plating/dirt,/area/tdome/arena)
+"Tq" = (/obj/structure/chair,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"Tr" = (/obj/machinery/airalarm,/turf/closed/indestructible/wood,/area/tdome/arena)
+"Ts" = (/obj/structure/displaycase_chassis,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"Tu" = (/obj/item/plaque{name = most famous lawyer award},/turf/closed/indestructible/wood,/area/tdome/arena)
+"Ty" = (/obj/machinery/atmospherics/components/binary/thermomachine/freezer/on/coldroom,/turf/open/floor/iron/freezer,/area/tdome/arena)
+"TL" = (/obj/machinery/processor,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"TP" = (/obj/structure/closet/secure_closet/freezer/fridge,/obj/item/reagent_containers/food/condiment/milk,/obj/item/reagent_containers/food/condiment/milk,/obj/item/reagent_containers/food/condiment/milk,/obj/item/reagent_containers/food/condiment/milk,/obj/item/reagent_containers/food/condiment/milk,/obj/item/reagent_containers/food/condiment/soymilk,/obj/item/reagent_containers/food/condiment/soymilk,/obj/item/reagent_containers/food/condiment/soymilk,/obj/item/reagent_containers/food/condiment/soymilk,/obj/item/reagent_containers/food/condiment/soymilk,/obj/item/reagent_containers/food/condiment/soymilk,/obj/item/storage/fancy/egg_box,/obj/item/storage/fancy/egg_box,/obj/item/storage/fancy/egg_box,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"Uq" = (/obj/machinery/door/window/brigdoor/security/holding/westright,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"Uv" = (/obj/structure/chair/greyscale{dir = 1},/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"UE" = (/obj/machinery/airalarm{dir = 8},/turf/closed/wall/mineral/wood/nonmetal,/area/tdome/arena)
+"UZ" = (/obj/structure/table/wood,/obj/item/toy/figure/lawyer,/obj/item/toy/figure/lawyer,/obj/item/toy/figure/lawyer,/obj/item/toy/figure/lawyer,/obj/item/toy/figure/lawyer,/obj/item/toy/figure/lawyer,/obj/item/toy/figure/lawyer,/obj/item/toy/figure/lawyer,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"Vf" = (/obj/structure/table/wood,/obj/machinery/chem_dispenser/drinks/fullupgrade,/turf/open/floor/carpet/green,/area/tdome/arena)
+"VM" = (/obj/structure/table/reinforced,/obj/machinery/door/window/brigdoor/northleft,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"VR" = (/obj/item/restraints/handcuffs/cable/zipties,/obj/structure/table,/turf/open/floor/plating,/area/tdome/arena)
+"VV" = (/obj/structure/table/reinforced,/obj/item/assembly/flash,/turf/open/indestructible,/area/tdome/arena)
+"Wb" = (/obj/structure/table/reinforced,/obj/machinery/door/window/brigdoor/security/holding/westleft,/turf/open/floor/carpet/stellar,/area/tdome/arena)
+"Wg" = (/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"Wm" = (/obj/machinery/power/floodlight,/turf/open/floor/iron/cafeteria,/area/tdome/arena)
+"Wo" = (/obj/effect/rune/wall,/turf/open/floor/carpet,/area/tdome/arena)
+"Wy" = (/obj/item/kirbyplants/potty,/turf/open/floor/grass,/area/tdome/arena)
+"WA" = (/obj/effect/decal/cleanable/food/flour,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"WD" = (/obj/item/spear/grey_tide,/turf/open/floor/plating/rust,/area/tdome/arena)
+"WF" = (/obj/structure/table/reinforced,/obj/item/kitchen/knife,/obj/item/kitchen/knife,/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"Xk" = (/obj/effect/rune/teleport,/turf/open/floor/carpet,/area/tdome/arena)
+"XP" = (/obj/effect/decal/cleanable/glitter/pink,/obj/effect/decal/cleanable/glitter/white,/obj/effect/decal/cleanable/glitter/white,/obj/effect/decal/cleanable/glitter/pink,/turf/open/floor/grass,/area/tdome/arena)
+"Yb" = (/obj/structure/chair/stool/bar{dir = 4},/turf/open/floor/iron/showroomfloor,/area/tdome/arena)
+"Yy" = (/obj/structure/table/reinforced,/obj/item/storage/box/handcuffs,/obj/item/storage/box/handcuffs,/turf/open/indestructible,/area/tdome/arena)
+"Yz" = (/obj/structure/grille,/obj/effect/spawner/structure/window/reinforced/indestructable,/turf/open/floor/carpet/green,/area/tdome/arena)
+"YK" = (/obj/structure/chair/stool/bar/directional/south,/turf/open/floor/carpet/green,/area/tdome/arena)
+"YO" = (/obj/machinery/light{dir = 1},/turf/closed/wall/mineral/wood/nonmetal,/area/tdome/arena)
+"Za" = (/turf/closed/indestructible/wood,/area/tdome/arena)
+"Zq" = (/obj/structure/curtain/cloth/fancy/mechanical{id = 13},/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"Zv" = (/obj/structure/table/reinforced,/obj/item/seeds/carbon_rose,/obj/item/reagent_containers/glass/bottle/nutrient,/obj/item/reagent_containers/glass/bottle/nutrient,/obj/item/reagent_containers/glass/bottle/nutrient,/turf/open/floor/grass,/area/tdome/arena)
+"ZC" = (/obj/structure/table/reinforced,/obj/structure/table/reinforced,/turf/open/floor/carpet/green,/area/tdome/arena)
+"ZE" = (/turf/open/indestructible/hotelwood,/area/tdome/arena)
+"ZG" = (/obj/structure/table,/obj/item/screwdriver,/turf/open/floor/plating,/area/tdome/arena)
+"ZN" = (/obj/machinery/door/airlock/security/glass,/obj/machinery/door/firedoor,/turf/open/floor/mineral/plastitanium/red/brig,/area/tdome/arena)
+"ZR" = (/obj/effect/rune,/obj/effect/rune/teleport,/turf/open/indestructible/hotelwood,/area/tdome/arena)
+
+(1,1,1) = {"
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygfefefefefefefefefeygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZaZaZaZaZaZamSmSsHZaygygygfepSaIVfiDsCsCuvsCkdfeygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZanknknknkZabccfcfkfygygfeEppSsCsCsCsCsCpSsCsCPZfeygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygHdnkonononMkJVcfcfkfygkffesCpSpSpSpSpSZCZCsCsCaFfeChDeDeDeDeZaZaZaZaZaZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZankononjPZagcKOenZaygkfxwsCYKYKYKYKYKYKYKsCsCsCLQcgmUuTzndgfHAKBQzImVZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZaBbononononwzononMkygYzsCsCsCsCsCsCsCsCsCsCsCsCymwSqaqaqaeUTrcfcfWDzIfHygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZaNSonoSonononononZaygYzsCsCsCriqjReIGReqjsCsCsCFZChsfqaqaeUMkZGcfcfcfZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZaxEonMJTqTqonononLrygYzsCsCsCqjReriReRslisCsCsCsCChZvqaqaWyZaVRcfzIcfZaZafHcbZaZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZaZaZaZaVMMjZNfHTrCcZaUEsCsCsCIGyhtBqjIGyhsCsCsCABKxChOlwEajChKxwEwEChChSbTgCSXPZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZaMAonAvonononOBoYIoIoncsCsCsCsCsCsCsCsCsCsCsCsCsCCafOfOfOfOfOfOfOfOWowEpyIkaBHDZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZazqonUqonononoQFDIohxChAJsCzBsCzBsCzBsCsCmtsCsCsCunfOfOfOfOfOfOfOXkqmwEzpQEnlzpZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZaZaZaZaononggZaxWIoQeChChaGODChODChODChChYOChChChChZEZEZEZEZEZEKkZEZRlVOxeFFhyYZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZaMAonUqononggZaFDIoEuChbNZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZETfZEMkZaZaZaZaZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZazqonAvonononfHpgIovzChZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqbNZqZqZqZqjSZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZaZaZaAvonononOJIoIoIowSarbNZEZEZEgPZEZEZEZEgPgPZEZEZEZEZEgPZEZEZEbNgPZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZaMAonUqonononHdIoIoIoKxWmbNbNZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEbNbNWmZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZaononAvonononZauAIoIoOFDIFybNqZbNbNbNbNbNbNbNbNbNbNbNbNbNbNbNbNbNFyDIZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZazqonZakjZaZaZaZaTrZaChDIDIFyZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEFyDIDIfHygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygZaZaZaZaygygygygygygygZaojfOfOfOfOfOfOfOfOfOnRofAsfOfOfOfOfOfOfOfOfOojZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygZaojojCCfOfOfOfOfOfOfOSBSBSBfOfOfOfOfOfOfOCCOoojZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygZafOojojfOfOfOfOfOfOfOfOCCfOfOfOfOfOfOfOfOOoojfOZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygHdfOfOojojojojojojojojojojojojojojojojojojojfOfOMkygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygZafOSBfOojojojojojojojojojOoojojojojojojojfOrNfOZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygfHfOSBxoxoSBSBxoxoSBSBxoSBxoSBSBxoxoSBSBxoxoSBfOfHygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygZafOSBxoxoSBSBxoxoSBSBxoSBxoSBSBxoxoSBrNxoxoSBfOZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaZaTrZaZafOSBxoxoSBSBxoxoSBSBxoSBxoSBSBxoxoSBSBxoxoSBfOZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZadVWgYbJqfOSBxoxoSBSBxoxoSBSBxoSBxoSBSBxoxoSBSBxoxoSBfOMkygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZassWgYbJqfOSBxoxoSBSBxonHSBSBxoSBxoSBSBnHxoSBSBxoxoSBfOZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaUvWgYbwNfOSBxoxoSBSBxoxoSBSBxorNxoSBSBxoxoSBSBxoxoSBfOZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZassWgYbJqfOrNxoxoSBSBxoxoSBSBxoSBxoSBSBxoxoSBSBxoxoSBfOZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaUvWgWgDCfOSBxoxoSBSBxoxoSBSBxoSBxoSBSBxoxoSBSBxoxoSBfOZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaWgWgWgfHfOfOxoxofOfOxoxofOfOxofOxofOfOxoxofOfOxoxofOfOZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaJqJqDCLPvJCcZaZaZaZakjZaZaZafHGrZaZafHCckjZaZaZaZaZakjZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygTrWgWAWgWgRUWFQdZaCwCwyoHdHVNFNFNFtXZaTsZEoLZEsoETygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaGIWgDjWAWAWgQtZasIyoyofHHVNFNFNFNFTrpuZECIZEfCTuygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaCsWgpGpGRXWgQtZaHByoxhZaNFNFNFNFNFxdZEZEDfZEZEZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaMfWgWAWgWgWgwvZaYyyoyoWbNFNFNFNFNFxdZEZErQUZNoZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaTPWgjUjURXWATLZaVVyoyoGYNFNFNFNFaHZaZEZEZEZEZEMkygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaWgWgWgWgWgWgWgZalRyoweZaOKNFNFNFdCZaftftmEZEImZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZakjmafHZaZaZaZaZaZagtZaZakjZaZaZaZaZaZaZaZaTrZaZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaDwwODwExZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaTywODwOWZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygTrOIwOExDwMkygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZagTwOoARtZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaCPEvsuRtZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaDwDwwORtZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygZaZaZaZaZaZaygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygsNygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygsNsNsNsNsNsNsNsNsNsNsNsNsNygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygsNsNsNsNsNsNsNsNsNsNsNsNsNygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygsNsNsNsNsNsNsNsNsNsNsNsNsNygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+ygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygygyg
+"}

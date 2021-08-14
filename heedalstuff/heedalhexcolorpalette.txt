@@ -1,0 +1,5 @@
+face, 4,78,109
+face boarder,3,47,76
+eyes,3,47,76
+horns,5,25,34
+headset,181,1,2

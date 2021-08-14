@@ -1,0 +1,24 @@
+"a" = (/turf/open/floor/wood/large,/area/tdome/arena)
+"b" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable,/turf/open/floor/bronze,/area/tdome/arena)
+"c" = (/obj/structure/table/glass,/obj/item/reagent_containers/glass/beaker,/turf/open/floor/bronze,/area/tdome/arena)
+"d" = (/obj/structure/bed,/obj/item/bedsheet/medical{step_x = 1},/turf/open/floor/bronze,/area/tdome/arena)
+"e" = (/obj/structure/cable,/obj/machinery/door/airlock/virology/glass{name = "Isolation A"; req_access_txt = "39"},/obj/machinery/door/firedoor,/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2{dir = 8},/turf/open/floor/bronze,/area/tdome/arena)
+"f" = (/obj/structure/cable,/obj/machinery/door/airlock/virology/glass{name = "Isolation B"; req_access_txt = "39"},/obj/machinery/door/firedoor,/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2{dir = 8},/turf/open/floor/bronze,/area/tdome/arena)
+"g" = (/obj/structure/table/glass,/obj/structure/reagent_dispensers/virusfood/directional/west,/obj/effect/turf_decal/tile/green{dir = 8},/obj/effect/turf_decal/tile/green{dir = 1},/obj/item/reagent_containers/glass/bottle/random_virus,/obj/item/reagent_containers/glass/bottle/random_virus,/obj/item/reagent_containers/glass/bottle/random_virus,/turf/open/floor/bronze,/area/tdome/arena)
+"h" = (/obj/structure/chair/office/light{dir = 8},/obj/effect/landmark/start/virologist,/turf/open/floor/bronze,/area/tdome/arena)
+"i" = (/turf/open/floor/bronze,/area/tdome/arena)
+"j" = (/obj/machinery/computer/pandemic,/obj/structure/cable,/obj/effect/turf_decal/tile/green{dir = 8},/obj/effect/turf_decal/tile/green{dir = 1},/turf/open/floor/bronze,/area/tdome/arena)
+"k" = (/obj/structure/table/glass,/obj/item/healthanalyzer,/obj/item/clothing/glasses/hud/health,/obj/effect/turf_decal/tile/green{dir = 8},/obj/effect/turf_decal/tile/green{dir = 1},/turf/open/floor/bronze,/area/tdome/arena)
+"l" = (/obj/structure/table/glass,/obj/machinery/reagentgrinder{pixel_y = 8},/obj/item/toy/figure/virologist{pixel_x = -8},/obj/effect/turf_decal/tile/green{dir = 8},/obj/effect/turf_decal/tile/green,/turf/open/floor/bronze,/area/tdome/arena)
+"m" = (/obj/machinery/smartfridge/chemistry/virology/preloaded,/obj/effect/turf_decal/tile/green{dir = 8},/obj/effect/turf_decal/tile/green,/turf/open/floor/bronze,/area/tdome/arena)
+"n" = (/obj/structure/rack,/obj/item/book/manual/wiki/infections{pixel_y = 7},/obj/item/reagent_containers/syringe/antiviral,/obj/item/reagent_containers/dropper,/obj/item/reagent_containers/spray/cleaner,/obj/effect/turf_decal/tile/green{dir = 4},/obj/effect/turf_decal/tile/green{dir = 1},/obj/effect/turf_decal/tile/green,/obj/item/storage/box/beakers,/turf/open/floor/bronze,/area/tdome/arena)
+"q" = (/turf/closed/wall,/area/tdome/arena)
+
+(1,1,1) = {"
+abbbbb
+abcbcb
+abdbdb
+abebfb
+qghiii
+qjklmn
+"}

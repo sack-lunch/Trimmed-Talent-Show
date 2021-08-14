@@ -1,0 +1,42 @@
+"a" = (/turf/open/space/basic,/area/space)
+"g" = (/obj/structure/alien/weeds,/mob/living/carbon/alien/larva,/obj/item/organ/alien/plasmavessel/large/queen,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"h" = (/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/obj/structure/window/plasma{dir = 8},/turf/open/floor/mineral/titanium/tiled,/area/space)
+"k" = (/obj/structure/window/plasma{dir = 4},/turf/open/space/basic,/area/space)
+"m" = (/obj/structure/alien/weeds,/obj/item/organ/alien/plasmavessel/large/queen,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"n" = (/obj/structure/alien/weeds,/obj/structure/window/plasma,/obj/structure/alien/weeds/node,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"o" = (/obj/structure/alien/weeds,/obj/structure/alien/resin/flower_bud,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"p" = (/obj/structure/alien/weeds/node,/obj/structure/alien/egg/grown,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"r" = (/obj/structure/alien/weeds,/obj/effect/decal/cleanable/insectguts,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"u" = (/obj/structure/alien/weeds,/obj/effect/decal/cleanable/blood/xtracks,/obj/effect/decal/cleanable/blood/xtracks,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"y" = (/obj/structure/alien/weeds,/obj/structure/alien/gelpod,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"B" = (/obj/structure/window/plasma{dir = 8},/turf/open/space/basic,/area/space)
+"D" = (/obj/structure/alien/weeds,/obj/structure/window/plasma,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"E" = (/obj/structure/alien/weeds,/obj/structure/window/plasma,/obj/structure/alien/resin/flower_bud,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"H" = (/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"I" = (/obj/structure/alien/weeds,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"J" = (/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/obj/effect/decal/cleanable/blood/xtracks,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"M" = (/obj/structure/window/plasma,/turf/open/space/basic,/area/space)
+"N" = (/obj/structure/alien/weeds,/obj/structure/alien/weeds,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"O" = (/obj/structure/alien/weeds,/mob/living/carbon/alien/larva,/obj/structure/window/plasma,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"P" = (/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/obj/structure/alien/egg/grown,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"S" = (/obj/structure/alien/weeds/node,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"T" = (/obj/structure/alien/weeds,/obj/effect/decal/cleanable/blood/xtracks,/turf/open/floor/mineral/titanium/tiled,/area/space)
+"W" = (/obj/structure/alien/weeds,/obj/structure/window/plasma{dir = 8},/obj/structure/window/plasma,/turf/open/floor/mineral/titanium/tiled,/area/space)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+MMMMMMMMMMMMMaa
+hIoIpuPoIyIIIBa
+hHIIIJIIIIIISBa
+WEDNITImImDDOBa
+aakHIIIIrgBaaaa
+aakIIHIIIIBaaaa
+aakHHIIHHIBaaaa
+aakDDDDDDnBaaaa
+Maaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+"}

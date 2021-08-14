@@ -1,0 +1,24 @@
+"a" = (/turf/open/space/basic,/area/space)
+"d" = (/obj/structure/window/reinforced/fulltile/indestructable,/obj/structure/grille,/turf/open/floor/wood/large,/area/space)
+"k" = (/obj/machinery/light/floor,/turf/open/floor/wood/large,/area/space)
+"o" = (/obj/machinery/component_printer,/turf/open/floor/wood/large,/area/space)
+"s" = (/obj/machinery/module_duplicator,/turf/open/floor/wood/large,/area/space)
+"u" = (/obj/machinery/door/window{dir = 8},/turf/open/floor/wood/large,/area/space)
+"v" = (/obj/structure/window/reinforced/spawner,/turf/open/floor/wood/large,/area/space)
+"w" = (/obj/item/pipe{dir = 5},/turf/open/floor/wood/large,/area/space)
+"A" = (/turf/open/floor/wood/large,/area/space)
+"D" = (/obj/machinery/atmospherics/components/unary/portables_connector{dir = 8},/obj/machinery/portable_atmospherics/canister/toxins,/turf/open/floor/wood/large,/area/space)
+"J" = (/obj/structure/holosign/barrier/atmos,/turf/open/floor/wood/large,/area/space)
+"Q" = (/obj/structure/window/reinforced/spawner{dir = 4},/turf/open/floor/wood/large,/area/space)
+"S" = (/obj/item/pipe{dir = 8},/turf/open/floor/wood/large,/area/space)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaa
+aaAdddddddddddaa
+aadAAAAAAAAAAAaa
+aauAAsoAAAAAAAaa
+aadddAAAAAAAddaa
+aaaaadAAvJvdaaaa
+aaaaadAQwSDdaaaa
+aaaaakdddddkaaaa
+"}
